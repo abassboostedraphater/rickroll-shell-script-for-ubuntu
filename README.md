@@ -1,1 +1,1 @@
-downloads an mp4 of never gonna give you up from a mediafire server using wget and then opens a windows playing it
+apt installs mplayer for launching videos from terminal and then just in case not pre installed apt installs wget and then downloads an mp4 of never gonna give you up from a mediafire server using wget and then opens a window of mplayer with the mp4 open
